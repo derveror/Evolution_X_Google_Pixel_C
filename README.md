@@ -1,2 +1,29 @@
-# Evolution_X_Google_Pixel_C
-Evolution X is a custom Android ROM that focuses on replicating the Google Pixel experience, with added customization.
+# Evolution X Google Pixel C
+
+![2okPze5](https://github.com/Evolution-XYZ/XDA/blob/udc/assets/banner_style_5.png?raw=true)
+
+> [!Warning]
+> This is custom firmware, which voids the warranty of your device. I am not responsible for any hardware failures, loss of data or explosions. Use at your own risk. Bugs and performance issues may arise compared to previous versions of android.
+
+# Installation Guide
+Before installation read the instructions: [Guide](https://github.com/derveror/Evolution_X_wahoo/releases/tag/A15_20250925)
+
+# Download Link
+
+Get the latest build here: [Releases](https://github.com/derveror/Evolution_X_wahoo/releases)
+
+# Credits
+
+| LineageOS                         | [Link](https://github.com/LineageOS) |
+
+| EvolutionX                           | [Link](https://github.com/Evolution-X) |
+
+# Reporting a bug/issue
+I do not accept bug feedback if you have modified my ROM. I do not support following changes:
+
+- Install root
+- Xposed or another mods
+- Custom Kernels
+- Install on an unsupported device
+
+Thank you for your attention! Good luck, be grateful!
